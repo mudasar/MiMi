@@ -28,6 +28,12 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow me to access the Photo Library</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Yes</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Need to create Meme</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
